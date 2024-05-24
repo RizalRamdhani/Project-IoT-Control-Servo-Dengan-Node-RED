@@ -1,0 +1,2 @@
+# Project IoT control Servo Dengan Node-red 
+Praktikum prinsip IoT berikutnya adalah kita akan mengontrol servo dengan memanfaatkan fasilitas dashboard pada Node-RED. Node-RED adalah platform pengembangan berbasis alur kerja yang memungkinkan pengguna untuk menghubungkan perangkat keras, API, dan layanan online dengan cara yang visual dan intuitif. Dalam praktikum ini, kita akan menggunakan Node-RED untuk mengirim perintah kontrol ke servo motor melalui perangkat keras seperti Raspberry Pi atau mikrokontroler yang mendukung Node-RED.
